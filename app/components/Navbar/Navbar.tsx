@@ -28,28 +28,8 @@ const MenuLinks = [
 const DropdownLinks = [
   {
     id: 1,
-    name: "Masajes",
+    name: "messi",
     link: "/#"
-  },
-  {
-    id: 2,
-    name: "Sexcam",
-    link: "/"
-  },
-  {
-    id: 3,
-    name: "Sexo anal",
-    link: "/"
-  },
-  {
-    id: 3,
-    name: "Oral al natural",
-    link: "/"
-  },
-  {
-    id: 3,
-    name: "Fetiches",
-    link: "/"
   }
 ]
 
